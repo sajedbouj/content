@@ -36,7 +36,7 @@ User-Agent: <product> / <product-version> <comment>
 Common format for web browsers:
 
 ```
-User-Agent: Mozilla/5.0 (<system-information>) <platform> (<platform-details>) <extensions>
+User-Agent: Mozilla/5.0 (Linux; Android 12; SM-G998M) <platform> (<platform-details>) <extensions>
 ```
 
 ### Directives
